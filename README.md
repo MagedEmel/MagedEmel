@@ -33,10 +33,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=magedemel&show_icons=true&locale=en&layout=compact&hide=python,cmake" alt="magedemel" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=magedemel" alt="magedemel" />
-</p>
-
 ---
 
 ### 📊 Competitive Programming  
