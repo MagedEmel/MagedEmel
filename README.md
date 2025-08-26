@@ -29,13 +29,7 @@
 ---
 
 ### 📊 GitHub Stats & Languages  
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagedEmelS&layout=compact&theme=tokyonight" alt="Most Used Languages" />
-</p>  
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MagedEmelS&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>  
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magedemel&show_icons=true&locale=en&layout=compact" alt="magedemel" /></p>
 
 ---
 
@@ -60,6 +54,3 @@
 
 ---
 ⭐️ From [Maged Emel Sobhy](https://github.com/MagedEmel)  
-
----
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=magedemel&show_icons=true&locale=en&layout=compact" alt="magedemel" /></p>
