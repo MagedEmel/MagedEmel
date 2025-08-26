@@ -82,22 +82,11 @@
 ## Skills & Language
 
 <div align="center">
-  <!-- HTML -->
-    <img src="https://img.icons8.com/fluency/96/html-5.png" alt="HTML" width="80" height="80" />
-  <!-- CSS -->
-   <img src="https://img.icons8.com/fluency/96/css3.png" alt="CSS" width="80" height="80" />
-  <!-- JavaScript -->
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js" width="80" height="80" />
-  <!-- JSON -->
-   <img src="https://img.icons8.com/fluency/96/json.png" alt="JSON" width="80" height="80" />
-  <!-- Bootstrap -->
-  <img src="https://img.icons8.com/fluency/96/bootstrap.png" alt="Bootstrap" width="80" height="80" />
-  <!-- C++ -->
-  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="80" height="80" />
-  <!-- Prettier -->
-  <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="prettier" width="80" height="80" />
-  <!-- MySQL -->
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="80" height="80" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="80" height="80"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="80" height="80"/>
 </div>
 
 
