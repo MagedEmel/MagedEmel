@@ -92,18 +92,12 @@
    <img src="https://img.icons8.com/fluency/96/json.png" alt="JSON" width="80" height="80" />
   <!-- Bootstrap -->
   <img src="https://img.icons8.com/fluency/96/bootstrap.png" alt="Bootstrap" width="80" height="80" />
-  <!-- React -->
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="react" width="80" height="80" />
-  <!-- TypeScript -->
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="80" height="80" />
   <!-- C++ -->
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="cpp" width="80" height="80" />
   <!-- Prettier -->
   <img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="prettier" width="80" height="80" />
   <!-- MySQL -->
   <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="80" height="80" />
-  <!-- GitHub -->
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github" width="80" height="80" />
 </div>
 
 
