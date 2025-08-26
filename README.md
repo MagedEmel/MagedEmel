@@ -3,6 +3,7 @@
 💻 **Front-End Developer** with **2 years of experience**  
 🌱 Currently learning **React.js**  
 🎯 Passionate about problem solving & building modern web apps  
+🧑‍💻 Currently working as a **Freelancer on [Mostaql](https://mostaql.com/)**  
 
 ---
 
@@ -27,6 +28,17 @@
 
 ---
 
+### 📊 GitHub Stats & Languages  
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagedEmelS&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+</p>  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=MagedEmelS&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+</p>  
+
+---
+
 ### 📊 Competitive Programming  
 - 👤 Handle: **[MagedEmelS](https://codeforces.com/profile/MagedEmelS)**  
 - 🏆 Passionate about solving algorithmic problems  
@@ -47,4 +59,4 @@
 ![Profile views](https://komarev.com/ghpvc/?username=MagedEmelS&color=blue)
 
 ---
-⭐️ From [Maged Emel Sobhy](https://github.com/MagedEmelS)  
+⭐️ From [Maged Emel Sobhy](https://github.com/MagedEmel)  
