@@ -61,7 +61,7 @@
 #  About Me:
 
 
-<table>
+<table border="0">
   <tr>
     <td>
       <p>💻 Front-End Developer with 2 years of experience.</p>
