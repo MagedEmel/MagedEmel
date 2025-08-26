@@ -30,8 +30,10 @@
 
 ### 📊 GitHub Stats & Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=magedemel&show_icons=true&locale=en&layout=compact&hide=python" alt="magedemel" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=magedemel&show_icons=true&locale=en&layout=compact&hide=python,c,cmake,xslt" alt="magedemel" />
 </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=magedemel&" alt="magedemel" /></p
 
 ---
 
